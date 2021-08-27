@@ -1,5 +1,5 @@
 # Jogo Space Shooter desenvolvido utilizando somente HTML, CSS e Javascript. 
-## Destaque para CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners, e manipulação de Array.
+## Destaque para CSS e lógica de programação utilizando posicionamento com CSS, manipulação do DOM, eventListeners e manipulação de Array.
 
 
 ### Stack utilizada:
